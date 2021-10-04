@@ -9,3 +9,14 @@
 
 * With a value of 0.71, we can conclude that the model predicts mpg of MechaCar protoypes effectively.
 
+## Summary Statistics on Suspension Coils
+
+<img width="508" alt="Captura de Pantalla 2021-10-03 a la(s) 22 23 17" src="https://user-images.githubusercontent.com/85467925/135788317-8147f7fd-0ff8-4317-9313-90755aecdb19.png">
+<img width="579" alt="Captura de Pantalla 2021-10-03 a la(s) 22 23 43" src="https://user-images.githubusercontent.com/85467925/135788344-2d54bf68-3f4e-4a45-accf-b2b0b14a5767.png">
+
+According to the design specifications for the MechaCar suspension coils, that dictate that the variance of the suspension coils must not exceed 100 pounds per square inch, individually, only lots 1 and 2 meet the specification with very low variance values. 
+The lots as a total also meet the specification, with a total variance is of 62.3.
+
+## T-Tests on Suspension Coils
+<img width="451" alt="Captura de Pantalla 2021-10-03 a la(s) 22 49 23" src="https://user-images.githubusercontent.com/85467925/135790029-a823849b-b5ca-4046-be25-1ad24a216cbe.png">
+Given the p value of 1, we can conclude that the PSI across all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch.
