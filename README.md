@@ -20,3 +20,10 @@ The lots as a total also meet the specification, with a total variance is of 62.
 ## T-Tests on Suspension Coils
 <img width="451" alt="Captura de Pantalla 2021-10-03 a la(s) 22 49 23" src="https://user-images.githubusercontent.com/85467925/135790029-a823849b-b5ca-4046-be25-1ad24a216cbe.png">
 Given the p value of 1, we can conclude that the PSI across all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch.
+
+## Study Design: MechaCar vs Competition
+Statistical study that can quantify how the MechaCar performs against the competition.
+* Metrics to test: cost per unit, fuel efficiency, safety rating, client satisfaction rating
+* Null Hypothesis: There is no statistical difference between MechaCar performance and its competitors' performance. 
+* Statistical test to test the hypothesis: t-test 
+* Data needed to run the test: 100 + data points from different car brand considered competition to MechaCar, aswell as MechaCar's own data. 
